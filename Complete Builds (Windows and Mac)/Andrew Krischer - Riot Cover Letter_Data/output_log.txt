@@ -1,0 +1,29 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6900 Series (ID=0x6719)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.239 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\System.Core.dll (this message is harmless)
+Main Camera (MainCamera)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\Andrew\Documents\Riot Cover Letter\Andrew Krischer - Riot Package\Andrew Krischer - Riot Cover Letter_Data\Managed\Boo.Lang.dll (this message is harmless)
