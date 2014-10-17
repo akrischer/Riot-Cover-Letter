@@ -20,10 +20,10 @@ I do not own nor make any claims for said assets.
 ### TO RUN
 Under /Complete Builds you will find a Windows and Mac version of the Unity Project.
 
-    If you are using the windows build, you must also donwload the _Data folder and have it in the same directory as the
-    Unity application file.
+-If you are using the windows build, you must also donwload the _Data folder and have it in the same directory as the
+Unity application file.
     
-    There is no associated _Data file for the Mac build.
+There is no associated _Data file for the Mac build.
     
     
     
